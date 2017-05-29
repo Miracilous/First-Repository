@@ -3,3 +3,5 @@ Update with Tortoise
 Dots here
 Random line
 Huehuehue
+Update with Bash
+Update with Tortoise
